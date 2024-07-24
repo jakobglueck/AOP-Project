@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse 
+.metadata/
+*.tmp
+*.bak
+*.swp
+.local/
+.settings/
+.project
+.classpath
+
+.DS_Store
+
+# Log files
+*.log
